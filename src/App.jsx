@@ -12,7 +12,7 @@ function App() {
         Employee Dashboard
       </h1>
       <h4 className="p-2.5 text-center">
-        Built with React.JS
+        Built with React.JS | Tailwind
       </h4>
       <div className="flex justify-center text-3xl m-1">
         <Toggle />
